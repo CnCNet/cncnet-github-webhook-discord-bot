@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+
+# Development environments
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Project-specific directories
+__pycache__/
