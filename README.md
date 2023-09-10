@@ -2,6 +2,8 @@
 
 This Discord bot integrates with GitHub webhooks to deliver real-time notifications about various GitHub events to the CnCNet Discord server.
 
+It will not notify about private projects.
+
 ### Event Types
 The bot supports various GitHub event types, including:
 
